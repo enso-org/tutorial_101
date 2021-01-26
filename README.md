@@ -21,6 +21,6 @@ In this tutorial you will:
 
 ## Next steps
 
-Once you are comfortable with the 101 tutorial, move on to the [Trams tutorial](https://github.com/enso_org/tutorial_trams) to use Enso to read and process a real-world data set, the locations of trams in Kraków.
+Once you are comfortable with the 101 tutorial, move on to the [Trams tutorial](https://github.com/enso-org/tutorial_trams) to use Enso to read and process a real-world data set, the locations of trams in Kraków.
 
 If you have any questions about the tutorials or using Enso, join us in the [Enso Discord](https://discord.gg/enso).
