@@ -1,6 +1,6 @@
 # Tutorial: Enso 101
 
-<a href="https://youtu.be/zT-WgFPEYGE">
+<a href="https://youtu.be/AwtAklcLrkU">
 <b>Watch on YouTube</b>
 <br>
 <img src="https://user-images.githubusercontent.com/1790822/105635477-40fc9380-5e63-11eb-9897-267ef7930434.png" width=600/>
@@ -17,7 +17,7 @@ In this tutorial you will:
 
 - Install Enso and put the binary in your PATH. 
 - Clone this directory to `~/enso`.
-- Call Enso with `--project tutorial_101`. 
+- Call Enso with `--project First_Tutorial`. 
 
 ## Next steps
 
