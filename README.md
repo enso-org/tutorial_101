@@ -1,6 +1,6 @@
 # Tutorial: Enso 101
 
-<a href="https://youtu.be/AwtAklcLrkU">
+<a href="https://www.youtube.com/watch?v=3f6FE1dgMNw">
 <b>Watch on YouTube</b>
 <br>
 <img src="https://user-images.githubusercontent.com/1790822/105635477-40fc9380-5e63-11eb-9897-267ef7930434.png" width=600/>
